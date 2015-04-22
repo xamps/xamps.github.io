@@ -1,0 +1,10 @@
+name: Github Pages Blog
+
+markdown: redcarpet
+redcarpet:
+        extensions: ["strikethrough"]
+permalink: pretty
+pygments: true
+comments: true
+gems:
+  - jekyll-redirect-from
